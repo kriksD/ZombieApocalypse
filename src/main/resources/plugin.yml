@@ -1,0 +1,7 @@
+name: ZombieApocalypse
+version: ${project.version}
+main: kriks.zombieapocalypse.ZombieApocalypse
+api-version: 1.16
+authors: [ kriks ]
+description: Zombies! Hhh...
+website: https://weathergood000.wixsite.com/kriks
