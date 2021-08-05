@@ -97,7 +97,7 @@ public class PropertiesOfPlugin {
         return new ArrayList<>(blocksNameToBreak);
     }
 
-    public int getFromBlocksChanceToBreakByIndex(int index){
+    public int getBlockChanceToBreakByIndex(int index){
         return blocksChanceToBreak.get(index);
     }
 
